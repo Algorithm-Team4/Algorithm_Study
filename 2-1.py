@@ -6,3 +6,4 @@ def solution(nums):
     else:
         answer = len(nums)/2
     return answer
+//
