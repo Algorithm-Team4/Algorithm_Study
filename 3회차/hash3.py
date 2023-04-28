@@ -14,17 +14,17 @@ def solution1(phone_book):
 
 # O(n)
 def solution2(phone_book):
-    hash_table = {}
+    dic = {}
 
     # 해시 테이블에 모든 전화번호 추가
     for phone_number in phone_book:
-        hash_table[phone_number] = 1
+        dic[phone_number] = 1
 
     # 각 전화번호의 접두어를 해시 테이블에서 검색하여 접두어가 존재하는지 확인
     for phone_number in phone_book:
         for i in range(1, len(phone_number)):
             prefix = phone_number[:i]
-            if prefix in hash_table:
+            if prefix in dic:
                 return False
     
     return True
