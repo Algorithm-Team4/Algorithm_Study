@@ -20,9 +20,9 @@ for i in src :
     if 'data:image' not in i :
         src_list.append(i)
 
-if not os.path.exists('mini_project/2_동적 웹 크롤링/img'):
-    os.makedirs('mini_project/2_동적 웹 크롤링/img')
+if not os.path.exists('SW분야 벤처스타트업 아카데미/mini_project/2_동적 웹 크롤링/img'):
+    os.makedirs('SW분야 벤처스타트업 아카데미/mini_project/2_동적 웹 크롤링/img')
 
 for i in range(10) : # .jpg 이미지 파일로 10장 저장
-    urlretrieve(src_list[i], f'mini_project/2_동적 웹 크롤링/img/cat_{i+1}.jpg')
+    urlretrieve(src_list[i], f'SW분야 벤처스타트업 아카데미/mini_project/2_동적 웹 크롤링/img/cat_{i+1}.jpg')
 driver.close() # 브라우저 닫기
