@@ -20,7 +20,7 @@ def solution(genres, plays):
         #songs =  [(2500, 4), (600, 1)]
  	    #         [(800, 3), (500, 0), (150, 2)]
 
-        # 각 장르별로 노래를 1 or 2개씩 선택후 answer에 노래고유번호 append . 
+        # 각 장르별로 노래를 1 or 2개씩 선택후 answer에 노래고유번호 append 
         for i in range(min(len(songs), 2)):
             answer.append(songs[i][1])
 
