@@ -4,6 +4,7 @@ def solution(nums):
     for n in nums :
         if n not in arr :
             arr.append(n)
+            
     if (len(nums) % 2 == 0) :
         answer = int (len(nums) / 2)
     else :

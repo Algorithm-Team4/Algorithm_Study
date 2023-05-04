@@ -13,6 +13,7 @@ def solution(participant, completion):
             participant_dictionary[person] += 1
         else:
             participant_dictionary[person] = 1
+            
     for person in completion:
         participant_dictionary[person] -= 1
     for person, counter in participant_dictionary.items():
