@@ -17,7 +17,8 @@ def solution(genres, plays):
     for genre in sorted(dic.keys(), key=lambda x: dic[x]['play_sum'], reverse=True): # play_sum 기준으로 장르 내림차순
         songs = dic[genre]['songs']
         songs = sorted(songs, key=lambda x: x[0], reverse=True) # songs 리스트에서 (튜플인덱스 0번 = 장르 내 재생된 노래) 기준 내림차순
-        #songs =  [(2500, 4), (600, 1)]
+        # songs = sorted(songs, key=lambda x: -x[0])
+        # songs =  [(2500, 4), (600, 1)]
  	    #         [(800, 3), (500, 0), (150, 2)]
 
         # 각 장르별로 노래를 1 or 2개씩 선택후 answer에 노래고유번호 append 
