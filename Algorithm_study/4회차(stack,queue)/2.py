@@ -17,6 +17,7 @@ def solution(s):
     # 스택에 값이 없을 경우: True
     return not stack
 
+
 def solution_2(s): 
     # '(' 1로 치환 , ')' -1로 치환
     dict = {'(': 1, ')': -1}

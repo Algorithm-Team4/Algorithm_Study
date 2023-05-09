@@ -9,6 +9,7 @@ def solution(arr):
             
     return answer
 
+
 def solution_2(arr):
     answer = [arr[0]]
 
