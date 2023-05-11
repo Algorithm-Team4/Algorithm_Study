@@ -8,6 +8,7 @@ def solution(genres, plays):
     for i in range(len(genres)):
         genre = genres[i]
         play = plays[i]
+        #없을 경우 초기화
         if genre not in genre_play_dict:
             genre_play_dict[genre] = 0
             genre_songs_dict[genre] = [(-1, -1), (-1, -1)]
@@ -15,8 +16,8 @@ def solution(genres, plays):
             #두번째로 가장 많이 재생된 (곡의 번호, 재생 수)
 
         genre_play_dict[genre] += play
-        #해당 장르 키(노래)에 해당 되는 재생 수
-
+        #해당 장르 키(노래)에 해당 되는 재생 수를 업데이트
+        
         if play > genre_songs_dict[genre][0][1]:
             genre_songs_dict[genre][1] = genre_songs_dict[genre][0]
             genre_songs_dict[genre][0] = (i, play)
@@ -24,16 +25,19 @@ def solution(genres, plays):
             genre_songs_dict[genre][1] = (i, play)
 
     genre_rank = list(genre_play_dict.keys())
+    print(genre_play_dict)
     genre_rank.sort(key=lambda x: genre_play_dict[x], reverse=True)
+    print(genre_rank)
     #play가 높은 순으로 오도록 정렬
 
     answer = []
     for genre in genre_rank:
-        for song in genre_songs_dict[genre]:
+        for song in genre_songs_dict[genre]: 
             if song[0] != -1:
                 answer.append(song[0])
 
     return answer
 
 # 테스트 케이스
-print(solution(["classic", "pop", "classic", "classic", "pop"], [500, 600, 150, 800, 2500]))  # [4, 1, 3, 0]
+print(solution(["classic", "pop", "classic", "classic", "rock"], [500, 600, 150, 800, 2500]))  # [4, 1, 3, 0]
+
