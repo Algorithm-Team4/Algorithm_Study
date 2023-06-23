@@ -4,10 +4,27 @@
     <head>
         <meta charset="UTF-8">
         <title>게시판 예제입니다</title>
+        <style>
+            .myclass {
+                color : blue;
+            }
+        </style>
+        <script LANGUAGE="javascript">
+            function testFunction() {
+                alert("Javascript function...");
+            }
+        </script>
     </head>
+
     <body>
-
-        <h3>게시판 홈입니다...</h3>
-
+        <div>
+            <h3>장고 + MariaDB 게시판</h3>
+            <ul style = "display: flex;">
+                <li style="list-style: none;margin-right: 10px;"><button>HOME</button></li>
+                <li style="list-style: none;margin-right: 10px;"><button onclick="testFunction()">Call function</button></li>
+                <li style="list-style: none;margin-right: 10px;"><a href="http://github.com" target="_blank"><button>COP</button></li></a>
+            </ul>
+        </div>
+        
     </body>
 </html>
