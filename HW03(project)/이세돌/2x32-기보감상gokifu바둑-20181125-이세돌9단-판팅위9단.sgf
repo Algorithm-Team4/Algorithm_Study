@@ -1,0 +1,110 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="ko"/>
+	<title>이세돌바둑판팅위바둑 Fan Tingyu - Lee Sedol , 20th  Nogshim Cup . 2018-11-25 </title>
+	<meta name="title" content="이세돌바둑판팅위바둑 Fan Tingyu - Lee Sedol , 20th  Nogshim Cup . 2018-11-25 친구와 기보를 공유하기" />
+	<meta name="keywords" content="판팅위게임 기록,판팅위바둑 ,판팅위sgf,판팅위경기,판팅위최신 게임 기록,바둑 기보판팅위,바둑 판팅위,이세돌게임 기록,이세돌바둑 ,이세돌sgf,이세돌경기,이세돌최신 게임 기록,바둑 기보이세돌,바둑 이세돌,판팅위,이세돌,판팅위이세돌,Fan Tingyu vs Lee Sedol,Fan Tingyu,Lee Sedol,Fan Tingyu sgf,Lee Sedol sgf, 20th  Nogshim Cup,2018-11-25 Fan Tingyu,2018-11-25 Lee Sedol  바둑 ,sgf games,-기보 , online -온 라인접속, go comunity-바둑계,blog -블로그,social -사회 , .ngf, .gib , .ugf , .ugi ,.go ,.sgf,network,-네트워크 ,forums -포름토//론, kifu-기보 ,go kifu-바둑기보 " />
+	<meta name="description" content="이세돌바둑판팅위바둑 Fan Tingyu - Lee Sedol , 20th  Nogshim Cup . 2018-11-25 친구와 기보를 공유하기. Easy way to put played games in blog -블로그에 대국보를 저장하는 쉬운 방법, social network-사회 통신망 ,forums -토론 " />
+
+<script language="JavaScript" type="text/javascript">
+
+<!--
+function SetBG(color)
+{
+    document.bgColor = color;
+}
+//-->
+</script>
+<!--
+        Optional config - defaults given
+    -->
+    <script type="text/javascript">
+    eidogoConfig = {
+        theme:          "standard", // "standard" or "compact"
+        mode:           "play", // "play" or "view"
+        showComments:    true,
+        showPlayerInfo:  true,
+        showGameInfo:    false,
+        showTools:       false,
+        showOptions:     false,
+        markCurrent:     true,
+        markVariations:  true,
+        markNext:        false,
+        problemMode:     false,
+        enableShortcuts: true
+    };
+    </script>
+    
+    <script type="text/javascript" src="http://gokifu.com/ko/players/js/all.compressed.js"></script>
+</head>
+<center>
+<body bgcolor="#e8f3fd">
+
+<table>
+	<tr>
+		<td>
+		
+		<table>
+<tbody><tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#e8f3fd')" bgcolor="#e8f3fd" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#E5E5E5')" bgcolor="#e5e5e5" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#CCCCCC')" bgcolor="#cccccc" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#B3B3B3')" bgcolor="#b3b3b3" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#999999')" bgcolor="#999999" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#808080')" bgcolor="#808080" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#666666')" bgcolor="#666666" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#4D4D4D')" bgcolor="#4d4d4d" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#333333')" bgcolor="#333333" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#1A1A1A')" bgcolor="#1a1a1a" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#000000')" bgcolor="#000000" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+</tbody></table>
+ </td>
+ 
+ <td> 
+  <div class="eidogo-player-auto">
+(;FF[4]GM[1]SZ[19]CA[UTF-8]SO[gokifu.com]BC[kr]WC[cn]EV[20th  Nogshim Cup]PB[이세돌]BR[9단]PW[판팅위]WR[9단]KM[6.5]DT[2018-11-25]RE[W+R]TM[60]LT[]TC[9223372036854775807]LC[1]GK[1];B[pd];W[dp];B[cq];W[dq];B[cp];W[do];B[cn];W[dd];B[pq];W[qo];B[pm];W[nc];B[pf];W[co];B[bo];W[bp];B[bq];W[bn];B[ap];W[cm];B[fc];W[df];B[cc];W[dc];B[db];W[eb];B[cb];W[fb];B[gc];W[ec];B[be];W[bf];B[ce];W[cf];B[kd];W[fl];B[cd];W[ff];B[qp];W[oe];B[pc];W[le];B[ke];W[kf];B[jf];W[jg];B[ld];W[me];B[kg];W[lf];B[if];W[ig];B[hg];W[hf];B[he];W[gf];B[kh];W[ji];B[jh];W[ih];B[ii];W[hh];B[hi];W[gh];B[jj];W[id];B[lb];W[mc];B[ib];W[hd];B[je];W[gb];B[ma];W[lc];B[kc];W[mb];B[na];W[ob];B[jb];W[ka];B[nh];W[og];B[pg];W[mh];B[ng];W[lg];B[lh];W[mi];B[lj];W[mg];B[nf];W[ne];B[mj];W[ni];B[pi];W[pj];B[qj];W[pb];B[qb];W[nj];B[ml];W[qi];B[qh];W[pk];B[qk];W[pl];B[ql];W[om];B[on];W[nm];B[nk];W[ol];B[pn];W[nn];B[ln];W[np];B[lp];W[rp];B[no];W[qq];B[pp];W[oo];B[mo];W[po];B[qm];W[qr];B[pr];W[op];B[nr];W[rn];B[mr];W[gi];B[rr];W[rq];B[qs];W[rs];B[ss];W[sq];B[hb];W[hc];B[pe];W[qc];B[rc];W[qa];B[rb];W[oi];B[ph];W[oj])</div>
+
+ </td>
+ <td>
+		
+	</td>	
+	</tr>
+	
+	<tr>
+		<td></td>
+		<td><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=bazilxp" class="addthis_button_compact">Share</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=bazilxp"></script>
+<!-- AddThis Button END -->
+
+		
+		</td>
+	</tr>
+	
+</table>
+
+<br>
+
+<a href="http://gokifu.com/ko/player/판팅위" title="수색 기보감상판팅위 " >기보감상판팅위바둑</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://gokifu.com/ko/player/이세돌" title="수색 기보감상이세돌 ">기보감상이세돌바둑</a><br><a href="" ></a>&nbsp;&nbsp;<a href="http://gokifu.com/ko/s/2x32.w" >Wgo(JS)</a>&nbsp;&nbsp;<a href="http://gokifu.com/ko/s/2x32.y" >WebGo(JS)</a>&nbsp;&nbsp;&nbsp; <a href="http://gokifu.com/ko/f/2x32-기보감상gokifu바둑-20181125-판팅위이세돌.sgf">다운로드</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://gokifu.com/">http://gokifu.com/</a>
+<script language="JavaScript" type="text/javascript">
+
+</script>
+<br>
+<!--Rating@Mail.ru counter-->
+<a target="_top" href="http://top.mail.ru/jump?from=2046703">
+<img src="http://da.c3.bf.a1.top.mail.ru/counter?id=2046703;t=84" 
+border="0" height="18" width="88" alt="???????@Mail.ru"></a>
+<!--// Rating@Mail.ru counter-->
+
+</body>
+</html>
+
+

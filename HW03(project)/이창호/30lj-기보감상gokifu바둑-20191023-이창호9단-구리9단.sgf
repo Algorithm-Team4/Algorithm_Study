@@ -1,0 +1,110 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="ko"/>
+	<title>이창호바둑구리바둑 Gu Li - Lee Changho ,  . 2019-10-23 </title>
+	<meta name="title" content="이창호바둑구리바둑 Gu Li - Lee Changho ,  . 2019-10-23 친구와 기보를 공유하기" />
+	<meta name="keywords" content="구리게임 기록,구리바둑 ,구리sgf,구리경기,구리최신 게임 기록,바둑 기보구리,바둑 구리,이창호게임 기록,이창호바둑 ,이창호sgf,이창호경기,이창호최신 게임 기록,바둑 기보이창호,바둑 이창호,구리,이창호,구리이창호,Gu Li vs Lee Changho,Gu Li,Lee Changho,Gu Li sgf,Lee Changho sgf, ,2019-10-23 Gu Li,2019-10-23 Lee Changho  바둑 ,sgf games,-기보 , online -온 라인접속, go comunity-바둑계,blog -블로그,social -사회 , .ngf, .gib , .ugf , .ugi ,.go ,.sgf,network,-네트워크 ,forums -포름토//론, kifu-기보 ,go kifu-바둑기보 " />
+	<meta name="description" content="이창호바둑구리바둑 Gu Li - Lee Changho ,  . 2019-10-23 친구와 기보를 공유하기. Easy way to put played games in blog -블로그에 대국보를 저장하는 쉬운 방법, social network-사회 통신망 ,forums -토론 " />
+
+<script language="JavaScript" type="text/javascript">
+
+<!--
+function SetBG(color)
+{
+    document.bgColor = color;
+}
+//-->
+</script>
+<!--
+        Optional config - defaults given
+    -->
+    <script type="text/javascript">
+    eidogoConfig = {
+        theme:          "standard", // "standard" or "compact"
+        mode:           "play", // "play" or "view"
+        showComments:    true,
+        showPlayerInfo:  true,
+        showGameInfo:    false,
+        showTools:       false,
+        showOptions:     false,
+        markCurrent:     true,
+        markVariations:  true,
+        markNext:        false,
+        problemMode:     false,
+        enableShortcuts: true
+    };
+    </script>
+    
+    <script type="text/javascript" src="http://gokifu.com/ko/players/js/all.compressed.js"></script>
+</head>
+<center>
+<body bgcolor="#e8f3fd">
+
+<table>
+	<tr>
+		<td>
+		
+		<table>
+<tbody><tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#e8f3fd')" bgcolor="#e8f3fd" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#E5E5E5')" bgcolor="#e5e5e5" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#CCCCCC')" bgcolor="#cccccc" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#B3B3B3')" bgcolor="#b3b3b3" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#999999')" bgcolor="#999999" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#808080')" bgcolor="#808080" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#666666')" bgcolor="#666666" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#4D4D4D')" bgcolor="#4d4d4d" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#333333')" bgcolor="#333333" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#1A1A1A')" bgcolor="#1a1a1a" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+<tr><td height="10"><img src="/images/dot.gif" alt="" width="5" border="0" height="10"></td><td onmouseover="SetBG('#000000')" bgcolor="#000000" height="10"><img src="/images/dot.gif" alt="" width="10" border="0" height="10"></td></tr>
+</tbody></table>
+ </td>
+ 
+ <td> 
+  <div class="eidogo-player-auto">
+(;FF[4]GM[1]SZ[19]CA[UTF-8]SO[gokifu.com]BC[kr]WC[cn]EV[]PB[이창호]BR[9단]PW[구리]WR[9단]KM[7.5]DT[2019-10-23]RE[W+R]TM[60]LT[]LC[1]GK[1];B[pd];W[dc];B[pp];W[cq];B[ce];W[ed];B[nc];W[ch];B[dp];W[cp];B[do];W[er];B[co];W[dk];B[gp];W[qn];B[nq];W[pj];B[qh];W[qp];B[qq];W[rq];B[qo];W[rp];B[pn];W[ro];B[po];W[qm];B[gr];W[bo];B[bn];W[bp];B[pm];W[qk];B[jm];W[fq];B[gq];W[mq];B[mp];W[lp];B[lq];W[fp];B[fo];W[go];B[fn];W[ho];B[ip];W[im];B[in];W[kq];B[mr];W[io];B[jo];W[hm];B[el];W[ek];B[fk];W[gm];B[fl];W[iq];B[hp];W[jp];B[jr];W[jl];B[ko];W[km];B[lo];W[cm];B[fr];W[eq];B[fi];W[ii];B[cn];W[dm];B[dl];W[cl];B[ck];W[cj];B[bk];W[bj];B[dj];W[ej];B[ei];W[di];B[fj];W[dj];B[dg];W[fg];B[hh];W[ih];B[gf];W[ef];B[ik];W[hk];B[hi];W[ij];B[if];W[eh];B[bc];W[bb];B[gd];W[cc];B[kg];W[gb];B[ib];W[lh];B[kh];W[lj];B[es];W[ds];B[fb];W[qf];B[qe];W[pf];B[li];W[mi];B[ki];W[mk];B[dq];W[dr];B[nj];W[mj];B[br];W[cr];B[bs];W[ar];B[aq];W[bq];B[as];W[ao];B[fe];W[ee];B[nf];W[rf];B[og];W[of];B[ll];W[kj];B[ng];W[od];B[oc];W[qc];B[pc];W[qd];B[qb];W[pe];B[rc];W[rd];B[sd];W[re];B[pl];W[rj];B[jn];W[kl];B[lm];W[ni];B[rb];W[ph];B[oh];W[pi];B[oi];W[lk];B[fc];W[ne];B[me];W[mf];B[oj];W[mg];B[nd];W[lf];B[jk];W[oe];B[nl];W[md])</div>
+
+ </td>
+ <td>
+		
+	</td>	
+	</tr>
+	
+	<tr>
+		<td></td>
+		<td><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=bazilxp" class="addthis_button_compact">Share</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=bazilxp"></script>
+<!-- AddThis Button END -->
+
+		
+		</td>
+	</tr>
+	
+</table>
+
+<br>
+
+<a href="http://gokifu.com/ko/player/구리" title="수색 기보감상구리 " >기보감상구리바둑</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://gokifu.com/ko/player/이창호" title="수색 기보감상이창호 ">기보감상이창호바둑</a><br><a href="" ></a>&nbsp;&nbsp;<a href="http://gokifu.com/ko/s/30lj.w" >Wgo(JS)</a>&nbsp;&nbsp;<a href="http://gokifu.com/ko/s/30lj.y" >WebGo(JS)</a>&nbsp;&nbsp;&nbsp; <a href="http://gokifu.com/ko/f/30lj-기보감상gokifu바둑-20191023-구리이창호.sgf">다운로드</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://gokifu.com/">http://gokifu.com/</a>
+<script language="JavaScript" type="text/javascript">
+
+</script>
+<br>
+<!--Rating@Mail.ru counter-->
+<a target="_top" href="http://top.mail.ru/jump?from=2046703">
+<img src="http://da.c3.bf.a1.top.mail.ru/counter?id=2046703;t=84" 
+border="0" height="18" width="88" alt="???????@Mail.ru"></a>
+<!--// Rating@Mail.ru counter-->
+
+</body>
+</html>
+
+
