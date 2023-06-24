@@ -1,0 +1,27 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        {% block title %}
+        <title>게시판 예제입니다</title>
+        {% endblock%}
+        {% block style %}
+        <style>
+            .myclass {
+                color : blue;
+            }
+        </style>
+        {% endblock %}
+        {% block script %}
+        <script LANGUAGE="javascript">
+            function testFunction() {
+                alert("Javascript function...");
+            }
+        </script>
+        {% endblock %}
+    </head>
+    <body>
+    {% block body %}
+    {% endblock %}
