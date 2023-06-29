@@ -12,4 +12,5 @@ urlpatterns = [
     path('board_edit', views.board_edit, name="board_edit"),
     path('board_update', views.board_update, name="board_update"),
     path('board_delete', views.board_delete, name="board_delete"),
+    
 ] 
