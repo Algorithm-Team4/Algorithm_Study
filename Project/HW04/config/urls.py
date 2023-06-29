@@ -22,4 +22,5 @@ from django.urls import re_path as url, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('board.urls')),
+    path('', include('album.urls')),
 ]
